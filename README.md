@@ -72,3 +72,6 @@ cargo build --release
 - [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk)
 - [Open-Meteo API](https://open-meteo.com/)
 - [National Weather Service API](https://www.weather.gov/documentation/services-web-api)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
